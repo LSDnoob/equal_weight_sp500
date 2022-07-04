@@ -1,2 +1,4 @@
-# equal_weight_sp500
-The S&amp;P 500 index is the most popular stock index market in the world. The S&amp;P 500 is market capitalization-weighted. This poject focuses on building an alternative version of the S&amp;P 500 index fund that assigns the same way to each company.  The goal is to create a Python script that will accept the value of the portfolio and return the required amount of shares each S&amp;P 500 constituent should be purchased to get an equal-weight version of the index fund.   The larger companies will have lesser weight than the traditional version and the smaller companies will have larger weight in than the traditional version.
+# Equal Weight S&P 500 Screener
+
+The S&P 500 index is the most popular stock index market in the world. The S&P 500 is market capitalization-weighted.
+This poject focuses on building an alternative version of the S&P 500 index fund that assigns the same way to each company.
